@@ -1,4 +1,4 @@
-# Run ISEE platform Using docker
+# Run ISEE Platform Using docker
 
 ## 1. Prerequisites
 1). docker-ce: https://docs.docker.com/install/linux/docker-ce/centos/ <br>
