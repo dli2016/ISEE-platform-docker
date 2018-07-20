@@ -63,10 +63,9 @@ sh check-nodes.sh
 ```
 
 ## 5. Launch ISEE
-One can try the ISEE platform under the illustration shown in: <br>
-https://github.com/dli2016/LaS-VPE-Platform/tree/dli <br>
+One can try the ISEE platform under the illustration shown in: https://github.com/dli2016/LaS-VPE-Platform/tree/dli <br>
 
 ## Acknowledgement
 I. We getnerate the basic images based on nvidia-docker (https://github.com/NVIDIA/nvidia-docker) and centos (https://hub.docker.com/r/_/centos/). <br>
-II.
+II. To build the ISEE image we refer the methods provided by kiwenlau (https://github.com/kiwenlau/hadoop-cluster-docker). <br>
 III. Thanks Kai Yu for his contribution on the underlying codes of ISEE platform. <br>
