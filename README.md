@@ -6,7 +6,7 @@
 3). cuda8.0 <br>
 4). Nvidia Driver > 361.77 <br>
 
-## 2. Generate ISEE images
+## 2. Generate ISEE Images
 1). Dependent Images <br>
 I. master image <br> 
 ```
