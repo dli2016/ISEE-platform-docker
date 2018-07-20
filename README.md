@@ -21,7 +21,7 @@ I. Set the number of slave nodes (it will generate the cofiguration files - slav
 ```
 sh set_slaves.sh [#slaves]
 ```
-II. Modify the configuration files (hadoop, spark, neo4j, kafka) in direcory of configs as necessary. <br>
+II. Modify the configuration files (hadoop, spark, neo4j, kafka) in directory of configs as necessary. <br>
 III. Set the server.properties and zookeeper.properties used by kafka (they are based on slaves). <br>
 ```
 sh set_kafka.sh
