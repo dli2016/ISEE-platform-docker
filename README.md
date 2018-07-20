@@ -17,7 +17,8 @@ II. worker image <br>
 docker pull cripac/centos7-isee-basic-worker:0.1.3
 ```
 2). Build ISEE Image <br>
-I. Set the number of slave nodes <br>
+I. Set the number of slave nodes (it will generate the cofiguration files - slaves for hadoop and spark) <br>
 ```
 sh set_slaves.sh [#slaves]
 ```
+II. Modify the configuration files (hadoop, spark, neo4j) in direcory of configs as necessary.
