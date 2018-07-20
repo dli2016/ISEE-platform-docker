@@ -7,5 +7,8 @@
 4). Nvidia Driver > 361.77 <br>
 
 ## 2. Generate ISEE images
-1). Dependent Images
-  I. 
+1). Dependent Images <br>
+  I. master image <br> 
+  ```
+  docker pull cripac/centos7-isee-basic-master:0.1.4
+  ```
