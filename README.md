@@ -1,4 +1,4 @@
-# Run ISEE platform using docker
+# Run ISEE platform Using docker
 
 ## 1. Prerequisites
 1). docker-ce: https://docs.docker.com/install/linux/docker-ce/centos/ <br>
@@ -66,7 +66,7 @@ sh check-nodes.sh
 One can try the ISEE platform under the illustration shown in: https://github.com/dli2016/LaS-VPE-Platform/tree/dli <br>
 Note: one should configure specific evironments on slave nodes to satisfy the necessary for a specific vision module. <br>
 
-## Acknowledgement
+## Acknowledgements
 I. We generate the basic images based on nvidia-docker (https://github.com/NVIDIA/nvidia-docker) and centos (https://hub.docker.com/r/_/centos/). <br>
 II. To build the ISEE image we refer the methods provided by kiwenlau (https://github.com/kiwenlau/hadoop-cluster-docker). <br>
 III. Thanks Kai Yu for his contribution on the underlying codes of ISEE platform. <br>
