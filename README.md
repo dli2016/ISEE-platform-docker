@@ -10,11 +10,11 @@
 1). Dependent Images <br>
 I. master image <br> 
 ```
-docker pull cripac/centos7-isee-basic-master:0.1.4
+docker pull cripac/centos7-isee-basic-master:0.1.5
 ```
 II. worker image <br>
 ```
-docker pull cripac/centos7-isee-basic-worker:0.1.3
+docker pull cripac/centos7-isee-basic-worker:0.1.4
 ```
 2). Build ISEE Image <br>
 I. Set the number of slave nodes (it will generate the cofiguration files - slaves - for hadoop and spark) <br>

@@ -1,4 +1,4 @@
-FROM cripac/centos7-isee-base-master:0.1.4
+FROM cripac/centos7-isee-base-master:0.1.5
 
 MAINTAINER cripac <dli1988@126.com>
 
