@@ -1,4 +1,4 @@
-FROM cripac/centos7-isee-base-worker:0.1.4
+FROM cripac/centos7-isee-base-worker:0.1.3
 
 MAINTAINER cripac <dli1988@126.com>
 
